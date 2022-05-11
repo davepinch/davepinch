@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [https://pinchy.cc](https://pinchy.cc).
+- 🌱 I’m currently learning Jekyll.
+
 <!--
 **davepinch/davepinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
